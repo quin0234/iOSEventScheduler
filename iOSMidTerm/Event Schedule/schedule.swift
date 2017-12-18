@@ -3,7 +3,7 @@
 //  Event Schedule
 //
 //  Created by Paul Quinnell on 2017-12-18.
-//  Copyright © 2017 shah0150@algonquinlive.com. All rights reserved.
+//  Copyright © 2017 quin0234@algonquinlive.com. All rights reserved.
 //
 
 import Foundation
